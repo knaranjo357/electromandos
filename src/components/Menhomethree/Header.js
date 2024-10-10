@@ -117,9 +117,6 @@ function Header() {
                     <Link to="/about">Nosotros</Link>
                     </li>
                     <li className="menu-item-has-children">
-                    <Link to="/team">Team</Link>
-                    </li>
-                    <li className="menu-item-has-children">
                     <Link to="/insurances">Servicios</Link>
                     </li>
                     <li className="menu-item-has-children">
@@ -154,9 +151,6 @@ function Header() {
                     </li>
                     <li className="menu-item-has-children">
                     <Link to="/about">Nosotros</Link>
-                    </li>
-                    <li className="menu-item-has-children">
-                    <Link to="/team">Team</Link>
                     </li>
                     <li className="menu-item-has-children">
                     <Link to="/insurances">Servicios</Link>
@@ -213,12 +207,6 @@ function Header() {
                         <li className="menu-item-has-children current">
                             <Link to="/about">
                                 Nosotros
-                            </Link>
-                        </li>
-
-                        <li className="menu-item-has-children current">
-                            <Link to="/team">
-                                Team
                             </Link>
                         </li>
 

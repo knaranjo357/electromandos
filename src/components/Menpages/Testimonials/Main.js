@@ -72,6 +72,7 @@ function Testimonials() {
                     alt="Fondo de testimonios de Electromandos del Oriente S.A.S."
                     className="testimonials-one__bg wow fadeInUp"
                     data-wow-duration="1500ms" 
+                    style={{width:"630px", height:"515px"}}
                 />
                 <div className="row">
                     <div className="col-lg-12">

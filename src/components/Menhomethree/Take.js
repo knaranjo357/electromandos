@@ -15,6 +15,7 @@ function Take() {
             src="assets/images/services/service-4-1.jpg"
             className="wow fadeInRight service-four__bg"
             data-wow-duration="1500ms"
+            style={{width:"885px",height:"940px"}}
           />
           <div className="row">
             <div className="col-xl-8">

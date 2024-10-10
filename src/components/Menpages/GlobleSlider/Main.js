@@ -6,25 +6,43 @@ import 'owl.carousel/dist/assets/owl.theme.default.css';
 const sponsorsData = [
     {
         id: 1,
-        image: '/assets/images/sponsors/sponsor-1-1.png',
-        alt: 'Logo de Cliente Global 1',
+        image: '/assets/images/sponsors/agrograin.png',
+        alt: 'agrograin',
         link: 'https://www.cliente1.com',
     },
     {
         id: 2,
-        image: '/assets/images/sponsors/sponsor-1-2.png',
-        alt: 'Logo de Cliente Global 2',
+        image: '/assets/images/sponsors/giana.png',
+        alt: 'diana',
         link: 'https://www.cliente2.com',
     },
     {
         id: 3,
-        image: '/assets/images/sponsors/sponsor-1-3.png',
+        image: '/assets/images/sponsors/distraves.jpg',
         alt: 'Logo de Cliente Global 3',
         link: 'https://www.cliente3.com',
     },
     {
         id: 4,
-        image: '/assets/images/sponsors/sponsor-1-4.png',
+        image: '/assets/images/sponsors/gavassa.jpg',
+        alt: 'Logo de Cliente Global 4',
+        link: 'https://www.cliente4.com',
+    },
+    {
+        id: 5,
+        image: '/assets/images/sponsors/campollo.jpg',
+        alt: 'diana',
+        link: 'https://www.cliente2.com',
+    },
+    {
+        id: 6,
+        image: '/assets/images/sponsors/metalteco.jpg',
+        alt: 'Logo de Cliente Global 3',
+        link: 'https://www.cliente3.com',
+    },
+    {
+        id: 7,
+        image: '/assets/images/sponsors/FAMAG.jpg',
         alt: 'Logo de Cliente Global 4',
         link: 'https://www.cliente4.com',
     },
@@ -70,7 +88,7 @@ function Sponsors() {
                         <div className="sponsor-one__content">
                             <p className="sponsor-one__tagline">Clientes Globales</p>
                             <h3 className="sponsor-one__title">
-                                Más de 1023+ clientes globales confían en nosotros
+                                Más de 150+ clientes globales confían en nosotros
                             </h3>
                         </div>
                     </div>
@@ -97,6 +115,7 @@ function Sponsors() {
                                                 src={sponsor.image} 
                                                 alt={sponsor.alt} 
                                                 className="sponsor-one__logo"
+                                                style={{width:"170",height:"60"}}
                                             />
                                         )}
                                     </div>

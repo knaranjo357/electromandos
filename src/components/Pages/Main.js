@@ -3,7 +3,6 @@ import Header from '../Menpages/Header/Main'
 import Bredcom from '../Menpages/Bredcom/Main'
 import Aboutcompany from '../Menpages/Aboutcompany/Main'
 import Consultations from '../Menpages/Consultations/Main'
-import Teem from '../Menpages/Teem/Main'
 import Achievement from '../Menpages/Achievement/Main'
 import Globleslider from '../Menpages/GlobleSlider/Main'
 import Testimonials from '../Menpages/Testimonials/Main'
@@ -17,7 +16,6 @@ function Main() {
             <Bredcom/>
             <Aboutcompany/>
             <Consultations/>
-            <Teem/>
             <Achievement/>
             <Globleslider/>
             <Testimonials/>

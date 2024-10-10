@@ -84,7 +84,7 @@ function Claim() {
                     <div className="row gutter-y-60">
                         <div className="col-md-12 col-lg-6">
                             <div className="contact-two__images">
-                                <img src="assets/images/resources/contact-2-3.jpg" alt="Equipo de Electromandos del Oriente S.A.S." />
+                                <img src="assets/images/resources/contact-2-3.jpg" alt="Equipo de Electromandos del Oriente S.A.S." style={{width:"630px",height:"688px"}}/>
                             </div>
                         </div>
                         

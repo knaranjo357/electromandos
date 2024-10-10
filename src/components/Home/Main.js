@@ -6,7 +6,7 @@ import People from '../Menhomethree/People'
 import Slider from '../Menhomethree/Slider'
 import Take from '../Menhomethree/Take'
 import Footer from '../Menpages/Footer/Main'
-import Header from '../Menhomethree/Header'
+import Header from '../Menpages/Header/Main'
 import Testimonials from '../Menpages/Testimonials/Main'
 import Globleslider from '../Menpages/GlobleSlider/Main'
 

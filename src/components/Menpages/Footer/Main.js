@@ -22,7 +22,13 @@ function Footer() {
                   </div>
                   <div className="main-header__info__content">
                     <span className="main-header__info__name">Ubicación</span>
-                    <Link to="#">55 Calle Principal, Colombia</Link>
+                    <a
+                            href="https://www.google.com/maps/place/ELECTROMANDOS+DEL+ORIENTE/data=!4m7!3m6!1s0x8e681556ce866539:0x7ffa6dcc7af05be8!8m2!3d7.1316291!4d-73.1167447!16s%2Fg%2F11k9bpc393!19sChIJOWWGzlYVaI4R6Fvwesxt-n8?authuser=0&hl=es&rclk=1"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Cra 31 #18-44
+                    </a>
                   </div>
                 </li>
                 <li className="main-header__info__item">
@@ -40,7 +46,7 @@ function Footer() {
                   </div>
                   <div className="main-header__info__content">
                     <span className="main-header__info__name">Teléfono</span>
-                    <Link to="tel:+573001234567">+57 300 123 4567</Link>
+                    <Link to="tel:+573153816959">+57 3153816959</Link>
                   </div>
                 </li>
               </ul>

@@ -12,7 +12,7 @@ function Main() {
                         <div className="col-md-12 col-lg-7">
                             <div className="about-one__image">
                                 {/* Actualiza la ruta de la imagen según corresponda */}
-                                <img src="assets/images/resources/about-5-1.jpg" alt="Electromandos del Oriente" />
+                                <img src="assets/images/resources/about-5-1.jpg" alt="Electromandos del Oriente" style={{width: "630px", height: "722px"}} />
                                 <Link
                                     to="#"
                                     className="video-popup about-one__video"

@@ -5,7 +5,7 @@ import Bredcom from '../Meninsurance/Bredcom'
 import Whatweoffer from '../Meninsurance/Whatweoffer'
 import Offer from '../Meninsurance/Offer'
 import Slider from '../Menpages/GlobleSlider/Main'
-
+import Proyectos from '../Menportfolio/proyectos'
 function Main() {
   return (
     <>
@@ -14,6 +14,7 @@ function Main() {
             <Header/>
             <Bredcom/>
             <Whatweoffer/>
+            <Proyectos/>
             <Offer/>
             <Slider/>
             <Footer/>

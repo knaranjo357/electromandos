@@ -10,7 +10,7 @@ function Company() {
           <div className="row gutter-y-60">
             <div className="col-md-12 col-lg-6 text-center">
               <div className="service-three__image">
-                <img src="assets/images/services/service-5-1.png" alt="Electromandos del Oriente S.A.S." />
+                <img src="assets/images/services/service-5-1.png" alt="Electromandos del Oriente S.A.S." style={{width:"655px", height:"620px"}}/>
                 <div className="service-three__image__caption text-start">
                   <h3 className="count-box service-three__image__caption__count">
                     <CountUp end={34} duration={2} /> {/* Años de experiencia */}

@@ -74,7 +74,7 @@ function Main() {
             <div className="col-md-12 col-lg-6">
               <div className="about-three__image wow fadeInUp" data-wow-duration="1500ms">
                 {/* Actualiza la ruta de la imagen según corresponda */}
-                <img src="assets/images/resources/about-3-1.jpg" className="img-fluid" alt="Servicios Electromandos del Oriente" />
+                <img src="assets/images/resources/about-3-1.jpg" className="img-fluid" alt="Servicios Electromandos del Oriente"  style={{width: "655px", height: "620px"}}/>
               </div>
             </div>
           </div>
