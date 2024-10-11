@@ -1892,7 +1892,7 @@ li:hover .footer-one__widget__gallery__hover {
 
 .slider-two__box {
   padding-top: 150px;
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 768px) {
@@ -2182,8 +2182,8 @@ li:hover .footer-one__widget__gallery__hover {
 .slider-four__item {
   background-color: var(--insuco-gray, #f8f8f8);
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 992px) {
@@ -2544,8 +2544,8 @@ li:hover .footer-one__widget__gallery__hover {
 */
 .error-page {
   text-align: center;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 992px) {
@@ -4027,8 +4027,8 @@ li:hover .footer-one__widget__gallery__hover {
   background-color: var(--insuco-dark, #16243e);
   text-align: center;
   position: relative;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -4145,7 +4145,7 @@ li:hover .footer-one__widget__gallery__hover {
 * Contact
 */
 .contact-one {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .contact-one__content__tagline {
@@ -4374,7 +4374,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .contact-two {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .contact-two .sec-title {
@@ -4661,7 +4661,7 @@ li:hover .footer-one__widget__gallery__hover {
 .contact-two--home-1 {
   background-repeat: no-repeat;
   background-position: top left;
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .contact-two--home-1 .contact-two__images img {
@@ -4676,8 +4676,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .contact-two--home-4 {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   overflow: hidden;
   background-size: cover;
   background-color: var(--insuco-gray, #f8f8f8);
@@ -5038,8 +5038,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .cta-two {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 992px) {
@@ -5106,7 +5106,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .cta-three {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -5178,8 +5178,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .cta-four {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -5253,7 +5253,7 @@ li:hover .footer-one__widget__gallery__hover {
 * Team
 */
 .team-one {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .team-one .row {
@@ -5464,8 +5464,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .team-two {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -5515,7 +5515,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .team-three {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -5540,7 +5540,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .team-four {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .team-four .owl-carousel .owl-item img {
@@ -5642,7 +5642,7 @@ li:hover .footer-one__widget__gallery__hover {
 * About
 */
 .about-one {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .about-one__image {
@@ -5841,8 +5841,8 @@ li:hover .footer-one__widget__gallery__hover {
 .about-two {
   overflow: hidden;
   background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -6142,7 +6142,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .about-five {
-  padding-top: 100px;
+  padding-top: 20px;
   position: relative;
 }
 
@@ -6281,7 +6281,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .about-six {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -6380,7 +6380,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .about-one--home-two {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -6408,7 +6408,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .about-five--home-1 {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -6510,7 +6510,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .about-seven {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -6530,8 +6530,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .about-eight {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -7842,7 +7842,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .blog-two {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .blog-two__right {
@@ -8027,8 +8027,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .blog-three {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .blog-three__btn {
@@ -8475,8 +8475,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .portfolio-details {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   position: relative;
   z-index: 10;
 }
@@ -8715,7 +8715,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .portfolio-one {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -8802,7 +8802,7 @@ li:hover .footer-one__widget__gallery__hover {
   padding-bottom: 0;
   position: relative;
   z-index: 10;
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -9029,7 +9029,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .faq-two {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .faq-two .sec-title {
@@ -9167,8 +9167,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .faq-three {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .faq-three .my-auto {
@@ -9483,8 +9483,8 @@ li:hover .footer-one__widget__gallery__hover {
 * Pricing
 */
 .pricing-one {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .pricing-one__info {
@@ -9740,8 +9740,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .testimonials-one--about {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .testimonials-one__bg {
@@ -10154,7 +10154,7 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .testimonials-one--home-1 {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .testimonials-one--home-1 .thm-owl__carousel {
@@ -10212,7 +10212,7 @@ li:hover .footer-one__widget__gallery__hover {
 .testimonials-three {
   position: relative;
   background-size: cover;
-  padding-top: 100px;
+  padding-top: 20px;
   background-color: var(--insuco-dark, #16243e);
 }
 
@@ -10453,13 +10453,13 @@ li:hover .footer-one__widget__gallery__hover {
 * Services
 */
 .service-one {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .service-two {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   background-color: var(--insuco-gray, #f8f8f8);
 }
 
@@ -10744,8 +10744,8 @@ li:hover .footer-one__widget__gallery__hover {
 }
 
 .service-three {
-  padding-bottom: 100px;
-  padding-top: 100px;
+  padding-bottom: 20px;
+  padding-top: 20px;
 }
 
 .service-three__image {
@@ -10984,8 +10984,8 @@ li:hover .service-three__list__title a {
 
 .service-four {
   background-size: cover;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .service-four .container {
@@ -11075,8 +11075,8 @@ li:hover .service-three__list__title a {
 }
 
 .service-five {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .service-five .sec-title {
@@ -11269,11 +11269,11 @@ li:hover .service-three__list__title a {
 }
 
 .service-six {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 .service-six--home-4 {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .service-card-four {
@@ -11430,7 +11430,7 @@ li:hover .service-three__list__title a {
 }
 
 .service-seven {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 @media (min-width: 1200px) {
@@ -11543,8 +11543,8 @@ li:hover .service-three__list__title a {
   background-color: var(--insuco-dark, #16243e);
   background-size: cover;
   background-position: center top;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .service-eight .sec-title__title {
@@ -11697,7 +11697,7 @@ li:hover .service-three__list__title a {
 * Steps
 */
 .steps-one {
-  padding-bottom: 100px;
+  padding-bottom: 20px;
   position: relative;
 }
 
@@ -11896,7 +11896,7 @@ li:hover .steps-one__list__icon::before {
 }
 
 .steps-one--home-3 {
-  padding-top: 100px;
+  padding-top: 20px;
 }
 
 /*

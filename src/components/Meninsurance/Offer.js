@@ -13,7 +13,7 @@ function Offer() {
             <div className="col-md-12 col-lg-6">
               <div className="about-one__image about-one__image--services">
                 {/* Imagen representativa de Electromandos del Oriente S.A.S. */}
-                <img src="assets/images/resources/faq-2-1.jpg" alt="Electromandos del Oriente S.A.S." />
+                <img src="assets/images/proyectos/hornociclonico.jpg" alt="Electromandos del Oriente S.A.S." style={{ width: '560px', height: '670px', objectFit: 'cover' }}/>
                 {/* Enlace para reproducir el video */}
                 <Link
                   to="#"

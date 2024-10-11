@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from '../Menpages/Header/Main'
-import Bredcom from '../Menpages/Bredcom/Main'
+// import Bredcom from '../Menpages/Bredcom/Main'
 import Aboutcompany from '../Menpages/Aboutcompany/Main'
 import Consultations from '../Menpages/Consultations/Main'
 import Achievement from '../Menpages/Achievement/Main'
@@ -13,7 +13,7 @@ function Main() {
     <>
         <div className="page-wrapper">
             <Header/>
-            <Bredcom/>
+            {/* <Bredcom/> */}
             <Aboutcompany/>
             <Consultations/>
             <Achievement/>

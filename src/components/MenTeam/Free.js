@@ -33,7 +33,7 @@ function Free() {
               <div className="cta-one__info__content">
                 <span className="cta-one__info__name">Número de Teléfono</span>
                 {/* Cambio de Link a etiqueta <a> con href para enlaces telefónicos */}
-                <a href="tel:+573001234567" className="cta-one__info__phone">+57 300 123 4567</a>
+                <a href="tel:+573153816959" className="cta-one__info__phone">+57 3153816959</a>
               </div>
             </div>
           </div>

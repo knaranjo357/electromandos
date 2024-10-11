@@ -11,7 +11,7 @@ function Main() {
    <>
         <div className="page-wrapper">
             <Header/>
-            <Bredcom/>
+            {/* <Bredcom/> */}
             <Latest/>
             <Slider/>
             <Footer/>

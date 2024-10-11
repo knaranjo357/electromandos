@@ -11,7 +11,7 @@ function Projects() {
       location: 'Bogotá',
       description:
         'Suministro, instalación y puesta en marcha del sistema eléctrico en manual y automático para el recibo y almacenamiento (12,000 toneladas) de la planta de concentrados.',
-      image: 'portfolio-2-1.jpg',
+      image: 'a1.jpg',
       category: 'industrial',
     },
     {
@@ -20,7 +20,7 @@ function Projects() {
       date: '1994 - 2002',
       location: 'Bucaramanga',
       description: 'Asesoría eléctrica en diversos proyectos industriales.',
-      image: 'portfolio-2-2.jpg',
+      image: 'a2.jpg',
       category: 'industrial',
     },
     {
@@ -30,7 +30,7 @@ function Projects() {
       location: 'Girón',
       description:
         'Montaje de subestación, alumbrado y tomas de servicio para la nueva bodega de ensamble de máquinas.',
-      image: 'portfolio-2-3.jpg',
+      image: 'a3.jpg',
       category: 'industrial',
     },
     {
@@ -40,7 +40,7 @@ function Projects() {
       location: 'Santa Marta',
       description:
         'Suministro, montaje y puesta en marcha de subestación y sistema eléctrico para la mecanización de la bodega de almacenamiento de grano.',
-      image: 'portfolio-2-4.jpg',
+      image: 'a4.jpg',
       category: 'industrial',
     },
     {
@@ -50,7 +50,7 @@ function Projects() {
       location: 'Buga',
       description:
         "Suministro, instalación y puesta en marcha de CCM's y acometidas de control y potencia.",
-      image: 'portfolio-2-5.jpg',
+      image: 'a5.jpg',
       category: 'industrial',
     },
     {
@@ -59,7 +59,7 @@ function Projects() {
       date: '2012',
       location: 'Cúcuta',
       description: "Suministro de CCM's y acometidas de control y potencia.",
-      image: 'portfolio-2-6.jpg',
+      image: 'a6.jpg',
       category: 'industrial',
     },
     {
@@ -69,7 +69,7 @@ function Projects() {
       location: 'Cartagena',
       description:
         'Suministro, instalación y puesta en marcha del sistema eléctrico de control y potencia manual/automático en la planta de concentrados.',
-      image: 'portfolio-2-7.jpg',
+      image: 'a7.jpg',
       category: 'industrial',
     },
     {
@@ -78,7 +78,7 @@ function Projects() {
       date: '2014',
       location: 'Girón',
       description: 'Centro de Control de Motores.',
-      image: 'portfolio-2-8.jpg',
+      image: 'a8.jpg',
       category: 'industrial',
     },
     {
@@ -87,7 +87,7 @@ function Projects() {
       date: '',
       location: 'Barranquilla',
       description: 'Automatización de planta de frijol.',
-      image: 'portfolio-2-9.jpg',
+      image: 'a9.jpg',
       category: 'industrial',
     },
     {
@@ -96,7 +96,7 @@ function Projects() {
       date: '',
       location: 'Girón',
       description: 'Centro de Control de Motores para maquinaria procesadora de café.',
-      image: 'portfolio-2-10.jpg',
+      image: 'a10.jpg',
       category: 'industrial',
     },
     {
@@ -105,7 +105,7 @@ function Projects() {
       date: '',
       location: 'Barranquilla',
       description: 'Tablero General de Distribución de 1600 amperios.',
-      image: 'portfolio-2-11.jpg',
+      image: 'a11.jpg',
       category: 'industrial',
     },
     {
@@ -114,7 +114,7 @@ function Projects() {
       date: '',
       location: 'Aguachica',
       description: 'Banco de condensadores de 200kVAR.',
-      image: 'portfolio-2-12.jpg',
+      image: 'a12.jpg',
       category: 'industrial',
     },
   ];
@@ -135,7 +135,11 @@ function Projects() {
               <div key={project.id} className="col-md-6 col-lg-4 filter-item industrial">
                 <div className="portfolio-card">
                   <div className="portfolio-card__image">
-                    <img src={`assets/images/portfolio/${project.image}`} alt={project.name} />
+                    <img 
+                      src={`assets/images/proyectos/${project.image}`} 
+                      alt={project.name} 
+                      style={{ width: '410px', height: '425px', objectFit: 'cover' }} // Tamaño fijo para todas las imágenes
+                    />
                     <div className="portfolio-card__content">
                       <span className="portfolio-card__tagline">Proyecto Industrial</span>
                       <h3 className="portfolio-card__title">
@@ -151,15 +155,7 @@ function Projects() {
             ))}
           </div>
 
-          {/* Botón para ver más proyectos */}
-          <div className="portfolio-grid__btns text-center">
-            <Link to="/projects" className="thm-btn thm-btn--two portfolio-grid__btn">
-              <span>
-                Ver Más Proyectos
-                <i className="far fa-arrow-right" />
-              </span>
-            </Link>
-          </div>
+          
         </div>
       </section>
     </>

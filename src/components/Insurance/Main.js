@@ -12,7 +12,7 @@ function Main() {
         <div className="page-wrapper">
 
             <Header/>
-            <Bredcom/>
+            {/* <Bredcom/> */}
             <Whatweoffer/>
             <Proyectos/>
             <Offer/>

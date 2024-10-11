@@ -5,7 +5,7 @@ function Main() {
   return (
     <>
         <section className="page-header text-start">
-            <div className="page-header__bg" style={{ backgroundImage: "url(assets/images/background/page-header-bg-1-1.jpg)" }} />
+            <div className="page-header__bg" style={{ backgroundImage: "url(assets/images/background/page-header-bg-1-1.jpg)", width: "1920px", height: "540px"  }} />
           
             <div className="container">
                 <h2 className="page-header__title">Nosotros</h2>

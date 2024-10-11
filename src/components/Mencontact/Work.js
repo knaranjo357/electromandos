@@ -107,7 +107,7 @@ function Work() {
 
                     <div className="contact-one__info__content">
                       <span className="contact-one__info__name">Ubicación</span>
-                      <Link to="#">Carrera 27 #12-34, Bucaramanga</Link>
+                      <Link to="#">Cra 31 #18-44, Bucaramanga</Link>
                     </div>
                   </li>
 
@@ -131,7 +131,7 @@ function Work() {
 
                     <div className="contact-one__info__content">
                       <span className="contact-one__info__name">Teléfono</span>
-                      <Link to="tel:+573001234567">+57 300 123 4567</Link>
+                      <Link to="tel:+573153816959">+57 3153816959</Link>
                     </div>
                   </li>
                 </ul>

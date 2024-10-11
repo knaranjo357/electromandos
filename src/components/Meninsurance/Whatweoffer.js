@@ -8,7 +8,7 @@ function WhatWeOffer() {
       <section className="service-one">
         <div className="container">
           <div className="sec-title text-center">
-            <p className="sec-title__tagline">Lo Que Ofrecemos</p>
+            {/* <p className="sec-title__tagline">Lo Que Ofrecemos</p> */}
 
             <h3 className="sec-title__title">
               Soluciones Eléctricas de Calidad <br />
@@ -21,7 +21,7 @@ function WhatWeOffer() {
             <div className="col-md-6 col-lg-3">
               <div className="service-card">
                 <div className="service-card__image">
-                  <img src="assets/images/services/services-1-1.jpg" alt="Diseño e Instalación Eléctrica" />
+                  <img src="assets/images/services/services-1-1.jpg" alt="Diseño e Instalación Eléctrica" style={{width:"300px",height:"250px"}}/>
                   <div className="service-card__hover">
                     <h3 className="service-card__title">
                       <Link to="/servicesdetails/diseno-instalacion">Diseño e Instalación Eléctrica</Link>
@@ -50,7 +50,7 @@ function WhatWeOffer() {
             <div className="col-md-6 col-lg-3">
               <div className="service-card">
                 <div className="service-card__image">
-                  <img src="assets/images/services/services-1-2.jpg" alt="Automatización Industrial" />
+                  <img src="assets/images/services/services-1-2.jpg" alt="Automatización Industrial" style={{width:"300px",height:"250px"}}/>
                   <div className="service-card__hover">
                     <h3 className="service-card__title">
                       <Link to="/servicesdetails/automatizacion-industrial">Automatización Industrial</Link>
@@ -79,7 +79,7 @@ function WhatWeOffer() {
             <div className="col-md-6 col-lg-3">
               <div className="service-card">
                 <div className="service-card__image">
-                  <img src="assets/images/services/services-1-3.jpg" alt="Proyectos Eléctricos en Baja Tensión" />
+                  <img src="assets/images/services/services-1-3.jpg" alt="Proyectos Eléctricos en Baja Tensión" style={{width:"300px",height:"250px"}}/>
                   <div className="service-card__hover">
                     <h3 className="service-card__title">
                       <Link to="/servicesdetails/proyectos-baja-tension">Proyectos Eléctricos en Baja Tensión</Link>
@@ -108,7 +108,7 @@ function WhatWeOffer() {
             <div className="col-md-6 col-lg-3">
               <div className="service-card">
                 <div className="service-card__image">
-                  <img src="assets/images/services/services-1-4.jpg" alt="Mantenimientos Preventivos y Correctivos" />
+                  <img src="assets/images/services/services-1-4.jpg" alt="Mantenimientos Preventivos y Correctivos" style={{width:"300px",height:"250px"}}/>
                   <div className="service-card__hover">
                     <h3 className="service-card__title">
                       <Link to="/servicesdetails/mantenimientos">Mantenimientos Preventivos y Correctivos</Link>
