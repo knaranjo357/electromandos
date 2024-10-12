@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/electromandos/%20/static/css/main.f2158218.css",
-    "main.js": "/electromandos/%20/static/js/main.56155322.js",
-    "static/js/787.28cb0dcd.chunk.js": "/electromandos/%20/static/js/787.28cb0dcd.chunk.js",
-    "static/media/page-header-bg-1-1.jpg": "/electromandos/%20/static/media/page-header-bg-1-1.adf12c5ce242f87f3318.jpg",
-    "index.html": "/electromandos/%20/index.html",
-    "main.f2158218.css.map": "/electromandos/%20/static/css/main.f2158218.css.map",
-    "main.56155322.js.map": "/electromandos/%20/static/js/main.56155322.js.map",
-    "787.28cb0dcd.chunk.js.map": "/electromandos/%20/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/electromandos%20/static/css/main.f2158218.css",
+    "main.js": "/electromandos%20/static/js/main.b22f18ce.js",
+    "static/js/787.28cb0dcd.chunk.js": "/electromandos%20/static/js/787.28cb0dcd.chunk.js",
+    "static/media/page-header-bg-1-1.jpg": "/electromandos%20/static/media/page-header-bg-1-1.adf12c5ce242f87f3318.jpg",
+    "index.html": "/electromandos%20/index.html",
+    "main.f2158218.css.map": "/electromandos%20/static/css/main.f2158218.css.map",
+    "main.b22f18ce.js.map": "/electromandos%20/static/js/main.b22f18ce.js.map",
+    "787.28cb0dcd.chunk.js.map": "/electromandos%20/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2158218.css",
-    "static/js/main.56155322.js"
+    "static/js/main.b22f18ce.js"
   ]
 }
