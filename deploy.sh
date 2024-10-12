@@ -5,6 +5,8 @@ set -e
 
 # Paso 1: Crear el build de producción
 echo "Generando el build de producción..."
+git add .
+git commit -m "update"
 npm run build
 
 # Paso 2: Cambiar a la rama gh-pages o crearla si no existe
