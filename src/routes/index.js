@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react';
 import { Route, Routes, useLocation, Navigate } from 'react-router-dom';
 import About from '../components/Pages/Main';
-import Team from '../components/Team/Main';
-import Teamdeatils from '../components/Teamdetails/Main';
 import Faqs from '../components/Faq/Main';
 import Error from '../components/Error/Main';
 import Insurance from '../components/Insurance/Main';
@@ -25,8 +23,6 @@ function Index() {
       <Routes>
         <Route path="/" element={<Homethree />} />
         <Route path="/about" element={<About />} />
-        {/* <Route path="/team" element={<Team />} /> */}
-        {/* <Route path="/teamdetails" element={<Teamdeatils />} /> */}
         <Route path="/faqs" element={<Faqs />} />
         <Route path="/error" element={<Error />} />
         <Route path="/insurances" element={<Insurance />} />
@@ -36,7 +32,7 @@ function Index() {
         <Route path="/contact" element={<Contact />} />
         
         {/* Catch-all route for unknown paths */}
-        <Route path="*" element={<Navigate to="/error" />} />
+        <Route path="/*" element={<Navigate to="/error" />} />
       </Routes>
     </>
   );
