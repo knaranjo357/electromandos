@@ -44,6 +44,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.2.0"
-  },
-  "homepage": "https://knaranjo357.github.io/electromandos"
+  }
 }

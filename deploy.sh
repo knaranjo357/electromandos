@@ -29,6 +29,6 @@ git push origin gh-pages --force
 
 # Paso 7: Volver a la rama principal (main o master)
 echo "Volviendo a la rama principal..."
-git checkout main  # O "git checkout master" si tu rama principal es master
+git checkout main --force # O "git checkout master" si tu rama principal es master
 
 echo "¡Despliegue completado!"
